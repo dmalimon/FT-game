@@ -1,6 +1,6 @@
 // ==UserScript==
 // @description A greasemonky userscript for cheating on a dumb online game
-// @name        New
+// @name        FP-CH
 // @namespace   https://github.com/Legioniam/FT-cheat
 // @include     http://faptitans.com/*
 // @version     3
@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 // Replace scripts
-DEBUG = 1
+//DEBUG = 1
 window.SCRIPT_SRC = ['https://github.com/dmalimon/FT-cheat/blob/master/vendor.js', 'https://github.com/dmalimon/FT-cheat/blob/master/conf.js', 'https://github.com/dmalimon/FT-game/blob/master/app.js'];
 
 // Create buttons for cheats
