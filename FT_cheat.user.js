@@ -10,7 +10,7 @@
 
 // Replace scripts
 DEBUG = 1
-window.SCRIPT_SRC = ['https://github.com/Legioniam/FT-cheat/vendor.js', 'https://github.com/Legioniam/FT-cheatconf.js', 'https://github.com/Legioniam/FT-cheat/app.js'];
+window.SCRIPT_SRC = ['https://github.com/dmalimon/FT-cheat/blob/master/vendor.js', 'https://github.com/dmalimon/FT-cheat/blob/master/conf.js', '/app.js'];
 
 // Create buttons for cheats
 var cheatToolbar = document.createElement('div');
