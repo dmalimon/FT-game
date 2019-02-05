@@ -10,7 +10,7 @@
 
 // Replace scripts
 DEBUG = 1
-window.SCRIPT_SRC = ['https://github.com/dmalimon/FT-cheat/blob/master/vendor.js', 'https://github.com/dmalimon/FT-cheat/blob/master/conf.js', '/app.js'];
+window.SCRIPT_SRC = ['https://github.com/dmalimon/FT-cheat/blob/master/vendor.js', 'https://github.com/dmalimon/FT-cheat/blob/master/conf.js', 'https://github.com/dmalimon/FT-game/blob/master/app.js'];
 
 // Create buttons for cheats
 var cheatToolbar = document.createElement('div');
